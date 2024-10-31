@@ -1,5 +1,5 @@
 #!/bin/bash
-HOME=/home/feldmann/
+HOME=/home/MrMadaraUchiha/
 APPS=$HOME/Applications
 SCRIPT_DIR="$( cd "$(dirname "$0")" ; pwd -P )"
 if [ -d $APPS ]; then
